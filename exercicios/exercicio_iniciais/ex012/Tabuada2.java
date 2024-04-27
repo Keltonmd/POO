@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Tabuada {
+public class Tabuada2 {
     public static void main (String[] args){
         Scanner scanf = new Scanner(System.in);
          //Instanciando o objeto scanner
